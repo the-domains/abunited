@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[AbUnited]]></title>
-        <description><![CDATA[AbUnited]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[S sense]]></title>
+        <description><![CDATA[S sense]]></description>
+        <link>https://thegrid.ai/abunited/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 26 Mar 2016 17:29:23 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 26 Mar 2016 18:00:09 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/abunited/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[GGMU ]]></title>
+            <description><![CDATA[<article><h1>GGMU </h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2daf992cfe4a1483c08d960fa67bb2b190918b3a.jpg"></article>]]></description>
+            <link>https://thegrid.ai/abunited/ggmu/index.html</link>
+            <guid isPermaLink="false">e148c09d-54b0-4e89-917e-efac486d9224</guid>
+            <pubDate>Sat, 26 Mar 2016 18:00:07 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Manchester United in Washington, DC</p>]]></description>
-            <link>undefinedmanchester-united-in-washington-dc/index.html</link>
+            <link>https://thegrid.ai/abunited/manchester-united-in-washington-dc/index.html</link>
             <guid isPermaLink="false">6121c235-104b-477d-bb2c-762f74777f8d</guid>
             <pubDate>Sat, 26 Mar 2016 17:28:28 GMT</pubDate>
         </item>
