@@ -1,6 +1,6 @@
 name: AbUnited
 favicon: null
-layout_spectrum: 0.2327
+layout_spectrum: 0.24712
 typography_spectrum: 0.44966
 title: S sense
 cta:
@@ -23,7 +23,7 @@ color:
     - '#ffffff'
     - '#00e0fd'
   brandStrength: 1
-  lightness: 0.5
-  saturation: 0.375
-  rhythmicContrast: 0.25
+  lightness: 0.75
+  saturation: 0.5
+  rhythmicContrast: 1
 purpose: []
