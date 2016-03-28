@@ -1,25 +1,25 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2016-03-28T20:35:21.553Z'
-dateModified: '2016-03-28T20:34:57.854Z'
+description: "Couldn't be more excited about this young prospect and who he will be partnering up with up front! Will it be a product from our youth academy, Marcus Rashford (more on him to come!) or will it be a player we purchase that will come in with his own ego and own set of skills? Stay tuned to discuss."
+datePublished: '2016-03-28T20:40:54.225Z'
+dateModified: '2016-03-28T20:37:25.002Z'
 title: A star is born....
 author: []
+sourcePath: _posts/2016-03-28-a-star-is-born.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-28-a-star-is-born.md
-published: true
 url: a-star-is-born/index.html
-_type: Article
+_type: WebPage
 
 ---
 # A star is born....
