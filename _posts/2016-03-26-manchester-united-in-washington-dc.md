@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'This was the first match that LVG took charge, what a feeling of relief to be finished with the Moyes era. 2 years later, United fans are still scratching our heads wondering if things got better or have regressed...more analysis to come'
-datePublished: '2016-03-28T20:28:32.637Z'
-dateModified: '2016-03-28T20:28:21.877Z'
+datePublished: '2016-03-28T21:00:11.755Z'
+dateModified: '2016-03-28T20:44:25.041Z'
 title: 'Manchester United in Washington, DC'
 author: []
 sourcePath: _posts/2016-03-26-manchester-united-in-washington-dc.md
